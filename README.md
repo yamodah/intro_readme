@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yassine Dahlek</h1>
-<h3 align="center">A passionate problem-solver and software engineer</h3>
+<h3 align="center">Hi 👋, I'm Yassine Dahlek</h3>
+<h4 align="center">A passionate problem-solver and software engineer</h4>
 
-- Try out my soccer game [FORREST FOSSIL FUTBOL](https://forrest-fossil-futbol.netlify.app/)
+- Try out my orignal soccer game! [FORREST FOSSIL FUTBOL](https://forrest-fossil-futbol.netlify.app/)
 
 - 📫 How to reach me **yassinedahlek@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/yassine dahlek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine dahlek" height="30" width="40" /></a>
 </p>
